@@ -2,18 +2,18 @@
 ## Description
 > A community-driven Emacs distribution -the [Spacemacs homepage](http://spacemacs.org/)
 
-If you are looking for a text editor, Spacemacs is the recomended editor.
+If you are looking for a text editor, Spacemacs is the recommended editor.
 
 The Spacemacs homepage states "The best editor is neither Emacs nor Vim, it's Emacs and Vim!". This document aims to kickstart beginners, Vim veterans and Emacs experts.
 
-Spacemacs can be used with Vim style text editing, this is the recomended mode (so called 'evil mode').
+Spacemacs can be used with Vim style text editing, this is the recommended mode (so called 'evil mode').
 
 ## Installation
-On a machine that has git and Emacs 24.4 or higher on it. Simply run the following command in a terminal:
+On a machine that has git and Emacs 24.4 or higher on it, simply run the following command in a terminal:
 ```
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
 ```
-Otherwise, follow the [Readme](https://github.com/syl20bnr/spacemacs) on installing both Emacs and downloading Spacemacs. Simply scroll down the page and follow the instructions for your operating system.
+Otherwise, follow this [readme](https://github.com/syl20bnr/spacemacs) on installing both Emacs and downloading Spacemacs. Simply scroll down the page and follow the instructions for your operating system.
 
 ## Configuration
 Spacemacs should be configured from it's so called 'dotfile', you can open the configuration file in Spacemacs with
@@ -25,7 +25,8 @@ SPC f e d
 
 ### First run
 
-Once Emacs was installed and Spacemacs was downloaded, when you first start Emacs, you should be greeted by the Spacemacs setup screen. The thing Spacemacs will do is ask you about your favourite editing style; it's heavily recomended to go with the Vim or 'Evil' style (press `RET` to confirm your choice).
+Once Emacs was installed and Spacemacs was downloaded, when you first start Emacs, you should be greeted by the Spacemacs setup screen. The thing Spacemacs will do is ask you about your favourite editing style; it's
+heavily recommended to go with the Vim or 'Evil' style (press `RET` to confirm your choice).
 
 Press `RET` two more times to answer 'yes' to the next two questions to prepare Spacemacs to properly set itself up. Once you answered all questions Spacemacs will download a bunch of packages to finish installation, this only happens once after installation.
 
@@ -36,7 +37,8 @@ SPC q r
 
 ### States
 
-When set up to use evil, Spacemacs behaves very much like Vim. It has a so called 'normal state', which has Vim style editing commands and has the leader key (see below) to perform actions or run commands. By pressing 'i' while in 'normal state' Spacemacs will switch to 'insert state', in this state you can enter text like with a regular text editor. By pressing 'escape', (from now on refered to as ESC), you can switch back to 'normal state'.
+When set up to use evil, Spacemacs behaves very much like Vim. It has a so called 'normal state', which has Vim style editing commands and has the leader key (see below) to perform actions or run commands. By pressing 'i'
+while in 'normal state' Spacemacs will switch to 'insert state', in this state you can enter text like with a regular text editor. By pressing 'escape' (from now on refered to as ESC) you can switch back to 'normal state'.
 
 ### The leader key
 
