@@ -2,13 +2,13 @@
 ## Description
 > Emacs is a family of text editors that are characterized by their extensibility. The manual for the most widely used variant, GNU Emacs, describes it as "the extensible, customizable, self-documenting, real-time display editor" -Wikipedia
 
-Read the entire [Wikipedia article](https://en.wikipedia.org/wiki/emacs) to learn all about the Church of Emacs, the editor wars and much more.
+If you feel like it, read the entire [Wikipedia article](https://en.wikipedia.org/wiki/emacs) to learn all about the Church of Emacs, the editor wars and much more.
 
 Simply put, Emacs is a text editor that comes with a lot of features and is extremely hackable.
 
 The recommended text editor is Spacemacs, a 'configuration' (the developer calls it an 'Emacs distribution') for Emacs that changes and adds a lot of functionality and features (including Vim-like text editing) with a single git clone command.
 
-Since Spacemacs is basically an Emacs configuration, most of Emacs' terminology still applies to Spacemacs, this article tries to cover all basic Emacs terminology one needs to use Spacemacs.
+Since Spacemacs is basically an Emacs configuration, most of Emacs terminology still applies to Spacemacs, this article tries to cover all basic Emacs terminology one needs to use Spacemacs.
 
 ## Installation
 MacOS user's should use Homebrew to install Emacs. First install Homebrew. Then run:
@@ -50,7 +50,7 @@ Where `SPC` stands for 'space' as in spacebar, `!` simply describes '!' as in 's
 > Note: You do not have to hold 'space', like you have to hold down 'control' with the above commands. Notice how C-x means hold down 'control' and press 'x' and how SPC f f means press 'SPC', press 'f', press 'f' again. The dash (`-`) makes quite the difference.
 
 ### Terminology
-If you have never worked with Emacs or Vim before and/or are new to the world of Unix, you will notice that some things have slightly different names than what you might be used to.
+If you have never worked with Emacs or Vim before and/or are new to the world of Unix, you will notice that some things have slightly different names than you might be used to.
 
 #### Frames and Windows
 When describing what is happening on your screen, it's most likely that you would describe, say an open window of your webbrowser (that is currently visible on your screen), as a 'browser window'. The same probably goes for a file manager; a 'file manager window'. Because Emacs is so old, the phrasing is different, Emacs does not call an open Emacs 'window' a 'window', but rather a 'frame'. You should get used to this, because 'window' means something different in Emacs terminology.

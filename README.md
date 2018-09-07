@@ -4,17 +4,17 @@ Text editors is a topic that is sure to generate a lot of debate. Before sending
 
 This documentation includes a section on Vim and a section on Emacs. It also includes a section on an 'Emacs Distribution' called Spacemacs. There are a few simple reasons why only these editors are covered:
 
-- Choice is nice and so is critical thinking and decision making. However, especially for beginners, clear directions are better.
-- These editors can all be run in a terminal and graphical window, which is nice, once you start to work with servers and other remote machines.
-- They are all available on almost any available platform imaginable (Vim usualy out of the box).
+- Have multiple options is nice, so are critical thinking and decision making. However, especially for beginners, clear directions are better.
+- These editors can all be run in a terminal and graphical window, which is great once you start to work with servers and other remote machines.
+- They are all available on almost any available platform imaginable (Vim usually out of the box).
 - Vim and Emacs both have a huge following and are very likely to be still around for at least decades to come.
 - Being able to work with Vim is considered a basic, primary skill.
-- Spacemacs turns Emacs into a fully featured IDE (it actualy comes closer an OS) that does not only have Vim style editting, but is also really easy to operate.
-- Spacemacs makes learning programming and all the tools surronding it easier, providing a nice 'bridge' between GUI programs and CLI programs.
+- Spacemacs turns Emacs into a fully featured IDE (it actually comes closer an OS) that does not only have Vim style editting, but is also really easy to operate.
+- Spacemacs makes learning programming and all the tools surrounding it easier, providing a nice 'bridge' between GUI programs and CLI programs.
 
 So in conclusion, choosing a text editor remains a personal choice, however: 
 - learning how to work with Vim is simply mandatory.
-- Spacemacs is the recommended editor.
+- Spacemacs is our recommended editor.
 
 ```
    Copyright 2018 Opensource Academy

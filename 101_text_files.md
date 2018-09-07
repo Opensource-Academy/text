@@ -7,12 +7,12 @@ This course is all about editing text files. Before you start working with a tex
 For now, let's make things super simple by saying this; there are two types of file: human-readable files and machine-readable files.
 
 ### Human readable files
-Human readable, or text, files are files that, when opened with a text editor, return human readable text like the text you are reading now.
+Human readable (or text) files are files that, when opened with a text editor, return human readable text like the text you are reading now.
 
-These are the type of file you can open with a tool like `vim` or `notepad`. You can also use them with programs such as `cat`.
+These are the type of files you can open with a tool like `vim` or `notepad`. You can also use them with programs such as `cat`.
 
 ### Machine readable files
-Machine readable, or binary, files are files that, when opened with the right program, return instructions a computer can read and humans can't.
+Machine readable (or binary) files are files that, when opened with the right program, return instructions a computer can read and humans can't.
 
 While it's still possible to show the file contents with `cat` or load a file in an editor like `vim`, the output will be an unreadable mess of seemingly random characters.
 
@@ -43,7 +43,7 @@ $ cat hello-world.txt
 hello world!
 ```
 
-Imagine an absloute beginner reading the previous example on a website or in a book: by adding the `.txt` extension, the purpose of `cat` gets clearer straight away.
+Imagine an absolute beginner reading the previous example on a website or in a book: by adding the `.txt` extension, the purpose of `cat` gets clearer straight away.
 
 By using the extensions, it also much easier to do something like this:
 ```bash
