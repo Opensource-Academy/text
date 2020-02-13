@@ -9,6 +9,9 @@ The Spacemacs homepage states "The best editor is neither Emacs nor Vim, it's Em
 Spacemacs can be used with Vim style text editing, this is the recommended mode (so called 'evil mode').
 
 ## Installation
+To set up Spacemacs with the LSP backend (Language Server Protocol), check [this step by step guide.](./install-spacemacs.md)  
+The guide uses Golang as programming language but the Spacemacs setup guide is universal. For example, also the Python layer with LSP backend works with this setup.  
+
 On a machine that has git and Emacs 24.4 or higher on it, simply run the following command in a terminal:
 ```
 git clone https://github.com/syl20bnr/spacemacs ~/.emacs.d
